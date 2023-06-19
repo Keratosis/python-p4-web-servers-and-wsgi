@@ -158,7 +158,7 @@ used `application` for simplicity's sake.) It is decorated with the
 function in the browser at the location we specify with our development server.
 
 ```py
-run_simple(
+run_simple(r
     hostname='localhost',
     port=5555,
     application=application
